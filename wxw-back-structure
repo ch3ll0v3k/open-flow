@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T12:06:44.181Z" agent="5.0 (X11)" etag="WN1KgW3u4YT7gFcGIGHv" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T12:19:56.264Z" agent="5.0 (X11)" etag="ztx72sNbroXk63oaMibi" version="20.0.1" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="1973" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2971" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -189,6 +189,12 @@
         </mxCell>
         <mxCell id="Srg3W3KWsIoMmdMZTZmT-65" value="Payment processing" style="strokeWidth=2;dashed=0;align=center;fontSize=12;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.envelope_wrapper;" vertex="1" parent="1">
           <mxGeometry x="810" y="370" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Srg3W3KWsIoMmdMZTZmT-70" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-40" width="10" height="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Srg3W3KWsIoMmdMZTZmT-71" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="-40" width="10" height="1320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
